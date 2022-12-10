@@ -1,0 +1,1 @@
+dmg = obj_player.dmg+20;

@@ -1,0 +1,9 @@
+if(instance_exists(obj_up_7)){
+if(obj_up_7.ok==true){
+obj_up_7.hp=3;
+instance_destroy();
+}
+else{
+ok=true;
+}
+}
