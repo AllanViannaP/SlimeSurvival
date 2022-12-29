@@ -2,7 +2,7 @@
 > Status: On hold 🕛
 
 ## **About**:
-This game was made in 8 hours to give as a birthday gift to my friend!
+This game was made in 8 hours as a birthday gift to my friend!
 
 Future improvements may be added.
 
