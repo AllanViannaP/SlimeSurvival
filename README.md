@@ -1,4 +1,4 @@
-# SlimeSurvival
+# Slime Survival
 > Status: On hold 🕛
 
 
